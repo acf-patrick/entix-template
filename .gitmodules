@@ -1,0 +1,6 @@
+[submodule "external/entix"]
+	path = external/entix
+	url = https://github.com/acf-patrick/entix
+[submodule "external/schemas"]
+	path = external/schemas
+	url = https://github.com/acf-patrick/entix-files-schema
