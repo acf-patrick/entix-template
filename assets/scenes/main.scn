@@ -1,0 +1,6 @@
+Name: main
+Entities:
+  - CameraComponent:
+      BackgroundColor: [0, 0, 0, 255]
+    TagComponent:
+      Tag: main camera

@@ -1,6 +1,6 @@
 {
   "cmake.debugConfig": {
-    "args": ["${workspaceFolder}/src/assets/app.cfg"]
+    "args": ["${workspaceFolder}/assets/app.cfg"]
   },
   "yaml.schemas": {
     "./external/schemas/entity.schema.json": "*.entt",
