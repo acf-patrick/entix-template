@@ -22,7 +22,7 @@ file(
 
 add_executable(${PROJECT_NAME} ${SOURCES})
 
-if (TRUE) #(CMAKE_BUILD_TYPE STREQUAL "Release")
+if (CMAKE_BUILD_TYPE STREQUAL "Release")
     include(cmake/build_config_files.cmake)
 endif()
 

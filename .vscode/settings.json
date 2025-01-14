@@ -8,9 +8,10 @@
     "./external/schemas/app.schema.json": "*.cfg"
   },
   "files.associations": {
+    "*.in": "cpp",
     "*.scn": "yaml",
-    "*.cfg": "yaml",
     "*.entt": "yaml",
+    "*.cfg": "yaml",
     "any": "cpp",
     "array": "cpp",
     "atomic": "cpp",
@@ -84,6 +85,8 @@
     "thread": "cpp",
     "typeinfo": "cpp",
     "valarray": "cpp",
-    "variant": "cpp"
+    "variant": "cpp",
+    "charconv": "cpp",
+    "format": "cpp"
   }
 }
